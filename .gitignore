@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -36,3 +37,43 @@ secrete.txt
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+=======
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+outline.md
+legacy
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+.env
+./env
+# vercel
+.vercel
+secrete.txt
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+>>>>>>> 65764d5ca80527723eebc47a31558c706811d8c7

@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 [build.environment]
+=======
+[build.environment]
+>>>>>>> 65764d5ca80527723eebc47a31558c706811d8c7
   NODE_VERSION = "20"
